@@ -34,6 +34,10 @@
     "hero",
     "component"
   ],
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/KeshavaTelan/simple-react-heroSection"
+},
   "author": "Keshava Silva",
   "license": "MIT"
 }
